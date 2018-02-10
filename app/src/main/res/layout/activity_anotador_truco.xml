@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.rodrigobc.anotadordejuegosdemesa.anotadorTruco">
+
+    <LinearLayout
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Nosotros"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ellos"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="184dp"
+        android:layout_height="495dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="192dp"
+        tools:layout_editor_absoluteY="8dp"
+        android:id="@+id/ladoEllos">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/ellosPrimerTercio">
+
+                <ImageView
+                    android:id="@+id/negrasUnoE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_uno" />
+
+                <ImageView
+                    android:id="@+id/negrasDosUnoE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_dos" />
+
+                <ImageView
+                    android:id="@+id/negrasTresUnoE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_tres" />
+
+                <ImageView
+                    android:id="@+id/negrasCuatroUnoE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_cuatro" />
+
+                <ImageView
+                    android:id="@+id/negrasCincoUnoE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_cinco" />
+
+                <ImageView
+                    android:id="@+id/buenasUnoE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_uno" />
+
+                <ImageView
+                    android:id="@+id/buenasDosUnoE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_dos" />
+
+                <ImageView
+                    android:id="@+id/buenasTresUnoE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_tres" />
+
+                <ImageView
+                    android:id="@+id/buenasCuatroUnoE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_cuatro" />
+
+                <ImageView
+                    android:id="@+id/buenasCincoUnoE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_cinco" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/ellosSegundoTercio">
+
+                <ImageView
+                    android:id="@+id/negrasUnoDosE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_uno" />
+
+                <ImageView
+                    android:id="@+id/negrasDosDosE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_dos" />
+
+                <ImageView
+                    android:id="@+id/negrasTresDosE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_tres" />
+
+                <ImageView
+                    android:id="@+id/negrasCuatroDosE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_cuatro" />
+
+                <ImageView
+                    android:id="@+id/negrasCincoDosE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_cinco" />
+
+                <ImageView
+                    android:id="@+id/buenasUnoDosE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_uno" />
+
+                <ImageView
+                    android:id="@+id/buenasDosDosE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_dos" />
+
+                <ImageView
+                    android:id="@+id/buenasTresDosE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_tres" />
+
+                <ImageView
+                    android:id="@+id/buenasCuatroDosE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_cuatro" />
+
+                <ImageView
+                    android:id="@+id/buenasCincoDosE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_cinco" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/ellosTercerTercio">
+
+                <ImageView
+                    android:id="@+id/negrasTresE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_uno" />
+
+                <ImageView
+                    android:id="@+id/negrasDosTresE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_dos" />
+
+                <ImageView
+                    android:id="@+id/negrasTresTresE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_tres" />
+
+                <ImageView
+                    android:id="@+id/negrasCuatroTresE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_cuatro" />
+
+                <ImageView
+                    android:id="@+id/negrasCincoTresE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_cinco" />
+
+                <ImageView
+                    android:id="@+id/buenasTresE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_uno" />
+
+                <ImageView
+                    android:id="@+id/buenasDosTresE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_dos" />
+
+                <ImageView
+                    android:id="@+id/buenasTresTresE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_tres" />
+
+                <ImageView
+                    android:id="@+id/buenasCuatroTresE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_cuatro" />
+
+                <ImageView
+                    android:id="@+id/buenasCincoTresE"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_cinco" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/sumarEllos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="+1" />
+
+        <Button
+            android:id="@+id/restarEllos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="184dp"
+        android:layout_height="495dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp"
+        android:id="@+id/ladoNosotros">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/nosotrosPrimerTercio">
+
+                <ImageView
+                    android:id="@+id/negrasUnoN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_uno" />
+
+                <ImageView
+                    android:id="@+id/negrasDosUnoN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_dos" />
+
+                <ImageView
+                    android:id="@+id/negrasTresUnoN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_tres" />
+
+                <ImageView
+                    android:id="@+id/negrasCuatroUnoN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_cuatro" />
+
+                <ImageView
+                    android:id="@+id/negrasCincoUnoN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_cinco" />
+
+                <ImageView
+                    android:id="@+id/buenasUnoN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_uno" />
+
+                <ImageView
+                    android:id="@+id/buenasDosUnoN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_dos" />
+
+                <ImageView
+                    android:id="@+id/buenasTresUnoN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_tres" />
+
+                <ImageView
+                    android:id="@+id/buenasCuatroUnoN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_cuatro" />
+
+                <ImageView
+                    android:id="@+id/buenasCincoUnoN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_cinco" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/nosotrosSegundoTercio">
+
+                <ImageView
+                    android:id="@+id/negrasUnoDosN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_uno" />
+
+                <ImageView
+                    android:id="@+id/negrasDosDosN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_dos" />
+
+                <ImageView
+                    android:id="@+id/negrasTresDosN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_tres" />
+
+                <ImageView
+                    android:id="@+id/negrasCuatroDosN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_cuatro" />
+
+                <ImageView
+                    android:id="@+id/negrasCincoDosN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_cinco" />
+
+                <ImageView
+                    android:id="@+id/buenasUnoDosN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_uno" />
+
+                <ImageView
+                    android:id="@+id/buenasDosDosN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_dos" />
+
+                <ImageView
+                    android:id="@+id/buenasTresDosN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_tres" />
+
+                <ImageView
+                    android:id="@+id/buenasCuatroDosN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_cuatro" />
+
+                <ImageView
+                    android:id="@+id/buenasCincoDosN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_cinco" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/nosotrosTercerTercio">
+
+                <ImageView
+                    android:id="@+id/negrasTresN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_uno" />
+
+                <ImageView
+                    android:id="@+id/negrasDosTresN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_dos" />
+
+                <ImageView
+                    android:id="@+id/negrasTresTresN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_tres" />
+
+                <ImageView
+                    android:id="@+id/negrasCuatroTresN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_cuatro" />
+
+                <ImageView
+                    android:id="@+id/negrasCincoTresN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/negras_cinco" />
+
+                <ImageView
+                    android:id="@+id/buenasTresN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_uno" />
+
+                <ImageView
+                    android:id="@+id/buenasDosTresN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_dos" />
+
+                <ImageView
+                    android:id="@+id/buenasTresTresN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_tres" />
+
+                <ImageView
+                    android:id="@+id/buenasCuatroTresN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_cuatro" />
+
+                <ImageView
+                    android:id="@+id/buenasCincoTresN"
+                    android:layout_width="match_parent"
+                    android:layout_height="250px"
+                    android:src="@drawable/buenas_cinco" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+        <Button
+            android:id="@+id/sumarNosotros"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="+1"
+            />
+
+        <Button
+            android:id="@+id/restarNosotros"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-1"
+            />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
