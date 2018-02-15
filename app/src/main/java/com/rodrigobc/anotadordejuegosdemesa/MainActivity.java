@@ -45,7 +45,6 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    @Override
     public void onClick(View v){
         switch(v.getId()) {
             case R.id.truco:

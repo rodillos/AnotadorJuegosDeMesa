@@ -76,12 +76,12 @@
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_configurar_truco.xml",
         "source": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\src\\main\\res\\layout\\activity_configurar_truco.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
@@ -104,12 +104,12 @@
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anotador_truco.xml",
         "source": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\src\\main\\res\\layout\\activity_anotador_truco.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
@@ -120,12 +120,12 @@
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_configurar_escoba15.xml",
-        "source": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\src\\main\\res\\layout\\activity_configurar_escoba15.xml"
-    },
-    {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_configurar_uno.xml",
         "source": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\src\\main\\res\\layout\\activity_configurar_uno.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_configurar_escoba15.xml",
+        "source": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\src\\main\\res\\layout\\activity_configurar_escoba15.xml"
     },
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
