@@ -21,7 +21,8 @@
         <activity android:name=".configurarEscoba15" />
         <activity android:name=".configurarChancho" />
         <activity android:name=".configurarUno" />
-        <activity android:name=".anotadorTruco"></activity>
+        <activity android:name=".anotadorTruco" />
+        <activity android:name=".MarcadorEscoba"></activity>
     </application>
 
 </manifest>

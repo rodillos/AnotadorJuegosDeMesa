@@ -44,6 +44,10 @@
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
@@ -56,12 +60,20 @@
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",

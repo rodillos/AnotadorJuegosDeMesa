@@ -24,12 +24,12 @@
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\negras_dos.png",
@@ -52,12 +52,20 @@
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fosforo_quemado.png",
         "source": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\src\\main\\res\\drawable\\fosforo_quemado.png"
     },
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
@@ -76,6 +84,10 @@
         "source": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\src\\main\\res\\drawable\\buenas_cuatro.png"
     },
     {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\negras_cuatro.png",
         "source": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\src\\main\\res\\drawable\\negras_cuatro.png"
     },
@@ -90,6 +102,10 @@
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
@@ -116,8 +132,16 @@
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
@@ -136,8 +160,16 @@
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buenas_tres.png",
         "source": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\src\\main\\res\\drawable\\buenas_tres.png"
+    },
+    {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
@@ -154,6 +186,10 @@
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\negras_uno.png",
         "source": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\src\\main\\res\\drawable\\negras_uno.png"
+    },
+    {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buenas_cinco.png",
@@ -176,6 +212,10 @@
         "source": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\src\\main\\res\\drawable\\buenas_uno.png"
     },
     {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
@@ -188,8 +228,20 @@
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fosforo_sin_prender.png",
@@ -202,5 +254,9 @@
     {
         "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
         "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\052b7f32d83b543f23ef974e7088faac19b1ae7d\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\AnotadordeJuegosdemesa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\rodrigo.boto\\.android\\build-cache\\c98a465940790b79a4ef0a24aa5508a4139b2095\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     }
 ]

@@ -1,40 +1,90 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2b09553baa109415c8ce52051ed5094e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d486a26890c9513fff421d365cb02e17\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\dc735b2f169e0f1f465b538dc4fb2607\AndroidManifest.xml:16:1-18:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\629fa0f56c741b9a43d4b2775cac0592\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\90952a10fd49c6a4832b146d636b1f14\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\ef92660b9e60421adabe6a2f236ee42a\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\a791e6fee9bd2213902d60bafce955b4\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\df46a0ac9a479e4111a409e8be1de72a\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\aad6fd6affddfff7851e6bb8fb73b2a2\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\e05a61456b86365013fb12e34b01e42d\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\59959461eb0d1801f21a6d6c26d1e0ec\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\76ab57aa60c8c2387dce031bfe16c6d7\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07aaa6582a1e94347521b09538e9ddf7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b6bfa5b211136086b1e2e6bf7dfb1ca8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3000cde4e8dfb8a27b4db7cfed44dcf7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\66dc2536ecbd7444c8947f55c2f645c8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\643be19c3f75ff60270adbfb8c6a1a40\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\60dcdb6199e17f5215a03f7f03f214b1\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:3:5-51
 		INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:2:11-69
-	android:versionCode
-		INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
 application
-ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:5:5-25:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\052b7f32d83b543f23ef974e7088faac19b1ae7d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\761e4b668f3777b5421ecd7df6d80d6ee87864e4\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\8af98ff21a666a7ad694a8dec3d848a59cb3f476\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\badd8e11859e69b7d23bfa9bca6e11d7c70c50c4\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\eb0fdea50d2bfc3be1ebd7960f586e9588f0a3c5\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\db3db387441f03bf320eca092a2673a450a92dfa\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\7afbb4fa3a1b9870f559cbefa86b5d13d24c5044\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\b27d1cfcddad07b553678f1d2514b8ba6863ec34\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\77ddc44bf8d6996b4237ee506acd2cf58470c2f6\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rodrigo.boto\.android\build-cache\41ed884c1837039f6ab4430c88d8a2fcaf48438d\output\AndroidManifest.xml:9:5-20
-	android:label
-		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:8:9-41
+ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2b09553baa109415c8ce52051ed5094e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2b09553baa109415c8ce52051ed5094e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d486a26890c9513fff421d365cb02e17\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d486a26890c9513fff421d365cb02e17\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\629fa0f56c741b9a43d4b2775cac0592\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\629fa0f56c741b9a43d4b2775cac0592\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\90952a10fd49c6a4832b146d636b1f14\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\90952a10fd49c6a4832b146d636b1f14\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\ef92660b9e60421adabe6a2f236ee42a\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\ef92660b9e60421adabe6a2f236ee42a\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\a791e6fee9bd2213902d60bafce955b4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\a791e6fee9bd2213902d60bafce955b4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\df46a0ac9a479e4111a409e8be1de72a\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\df46a0ac9a479e4111a409e8be1de72a\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\aad6fd6affddfff7851e6bb8fb73b2a2\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\aad6fd6affddfff7851e6bb8fb73b2a2\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\e05a61456b86365013fb12e34b01e42d\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\e05a61456b86365013fb12e34b01e42d\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\59959461eb0d1801f21a6d6c26d1e0ec\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\59959461eb0d1801f21a6d6c26d1e0ec\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\76ab57aa60c8c2387dce031bfe16c6d7\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\76ab57aa60c8c2387dce031bfe16c6d7\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07aaa6582a1e94347521b09538e9ddf7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07aaa6582a1e94347521b09538e9ddf7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b6bfa5b211136086b1e2e6bf7dfb1ca8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b6bfa5b211136086b1e2e6bf7dfb1ca8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3000cde4e8dfb8a27b4db7cfed44dcf7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3000cde4e8dfb8a27b4db7cfed44dcf7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\66dc2536ecbd7444c8947f55c2f645c8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\66dc2536ecbd7444c8947f55c2f645c8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\643be19c3f75ff60270adbfb8c6a1a40\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\643be19c3f75ff60270adbfb8c6a1a40\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\60dcdb6199e17f5215a03f7f03f214b1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\60dcdb6199e17f5215a03f7f03f214b1\AndroidManifest.xml:29:5-20
 	android:supportsRtl
 		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
 		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:9:9-54
-	android:allowBackup
-		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
 		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.rodrigobc.anotadordejuegosdemesa.MainActivity
@@ -72,40 +122,114 @@ ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest
 	android:name
 		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:23:19-48
 activity#com.rodrigobc.anotadordejuegosdemesa.anotadorTruco
-ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:24:9-60
+ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:24:9-51
 	android:name
 		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:24:19-48
+activity#com.rodrigobc.anotadordejuegosdemesa.MarcadorEscoba
+ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml:25:19-49
 uses-sdk
 INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\052b7f32d83b543f23ef974e7088faac19b1ae7d\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\761e4b668f3777b5421ecd7df6d80d6ee87864e4\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\8af98ff21a666a7ad694a8dec3d848a59cb3f476\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\badd8e11859e69b7d23bfa9bca6e11d7c70c50c4\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\eb0fdea50d2bfc3be1ebd7960f586e9588f0a3c5\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\db3db387441f03bf320eca092a2673a450a92dfa\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\7afbb4fa3a1b9870f559cbefa86b5d13d24c5044\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\b27d1cfcddad07b553678f1d2514b8ba6863ec34\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\77ddc44bf8d6996b4237ee506acd2cf58470c2f6\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rodrigo.boto\.android\build-cache\41ed884c1837039f6ab4430c88d8a2fcaf48438d\output\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2b09553baa109415c8ce52051ed5094e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2b09553baa109415c8ce52051ed5094e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d486a26890c9513fff421d365cb02e17\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d486a26890c9513fff421d365cb02e17\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\dc735b2f169e0f1f465b538dc4fb2607\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\dc735b2f169e0f1f465b538dc4fb2607\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\629fa0f56c741b9a43d4b2775cac0592\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\629fa0f56c741b9a43d4b2775cac0592\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\90952a10fd49c6a4832b146d636b1f14\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\90952a10fd49c6a4832b146d636b1f14\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\ef92660b9e60421adabe6a2f236ee42a\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\ef92660b9e60421adabe6a2f236ee42a\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\a791e6fee9bd2213902d60bafce955b4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\a791e6fee9bd2213902d60bafce955b4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\df46a0ac9a479e4111a409e8be1de72a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\df46a0ac9a479e4111a409e8be1de72a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\aad6fd6affddfff7851e6bb8fb73b2a2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\aad6fd6affddfff7851e6bb8fb73b2a2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\e05a61456b86365013fb12e34b01e42d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\e05a61456b86365013fb12e34b01e42d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\59959461eb0d1801f21a6d6c26d1e0ec\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\59959461eb0d1801f21a6d6c26d1e0ec\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\76ab57aa60c8c2387dce031bfe16c6d7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\76ab57aa60c8c2387dce031bfe16c6d7\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07aaa6582a1e94347521b09538e9ddf7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07aaa6582a1e94347521b09538e9ddf7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b6bfa5b211136086b1e2e6bf7dfb1ca8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b6bfa5b211136086b1e2e6bf7dfb1ca8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3000cde4e8dfb8a27b4db7cfed44dcf7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3000cde4e8dfb8a27b4db7cfed44dcf7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\66dc2536ecbd7444c8947f55c2f645c8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\66dc2536ecbd7444c8947f55c2f645c8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\643be19c3f75ff60270adbfb8c6a1a40\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\643be19c3f75ff60270adbfb8c6a1a40\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\60dcdb6199e17f5215a03f7f03f214b1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\60dcdb6199e17f5215a03f7f03f214b1\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\052b7f32d83b543f23ef974e7088faac19b1ae7d\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2b09553baa109415c8ce52051ed5094e\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Android Studio\AnotadordeJuegosdemesa\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\052b7f32d83b543f23ef974e7088faac19b1ae7d\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\761e4b668f3777b5421ecd7df6d80d6ee87864e4\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\8af98ff21a666a7ad694a8dec3d848a59cb3f476\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\badd8e11859e69b7d23bfa9bca6e11d7c70c50c4\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\eb0fdea50d2bfc3be1ebd7960f586e9588f0a3c5\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\db3db387441f03bf320eca092a2673a450a92dfa\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\7afbb4fa3a1b9870f559cbefa86b5d13d24c5044\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\b27d1cfcddad07b553678f1d2514b8ba6863ec34\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\77ddc44bf8d6996b4237ee506acd2cf58470c2f6\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2b09553baa109415c8ce52051ed5094e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\629fa0f56c741b9a43d4b2775cac0592\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\629fa0f56c741b9a43d4b2775cac0592\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\90952a10fd49c6a4832b146d636b1f14\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\90952a10fd49c6a4832b146d636b1f14\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07aaa6582a1e94347521b09538e9ddf7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07aaa6582a1e94347521b09538e9ddf7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b6bfa5b211136086b1e2e6bf7dfb1ca8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b6bfa5b211136086b1e2e6bf7dfb1ca8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3000cde4e8dfb8a27b4db7cfed44dcf7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3000cde4e8dfb8a27b4db7cfed44dcf7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\66dc2536ecbd7444c8947f55c2f645c8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\66dc2536ecbd7444c8947f55c2f645c8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\643be19c3f75ff60270adbfb8c6a1a40\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\643be19c3f75ff60270adbfb8c6a1a40\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\60dcdb6199e17f5215a03f7f03f214b1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\60dcdb6199e17f5215a03f7f03f214b1\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\052b7f32d83b543f23ef974e7088faac19b1ae7d\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2b09553baa109415c8ce52051ed5094e\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rodrigo.boto\.android\build-cache\052b7f32d83b543f23ef974e7088faac19b1ae7d\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2b09553baa109415c8ce52051ed5094e\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\ef92660b9e60421adabe6a2f236ee42a\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\ef92660b9e60421adabe6a2f236ee42a\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\ef92660b9e60421adabe6a2f236ee42a\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\ef92660b9e60421adabe6a2f236ee42a\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\ef92660b9e60421adabe6a2f236ee42a\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\ef92660b9e60421adabe6a2f236ee42a\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\ef92660b9e60421adabe6a2f236ee42a\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\ef92660b9e60421adabe6a2f236ee42a\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\aad6fd6affddfff7851e6bb8fb73b2a2\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\aad6fd6affddfff7851e6bb8fb73b2a2\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\aad6fd6affddfff7851e6bb8fb73b2a2\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\aad6fd6affddfff7851e6bb8fb73b2a2\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\76ab57aa60c8c2387dce031bfe16c6d7\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\76ab57aa60c8c2387dce031bfe16c6d7\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\rodrigo.boto\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\76ab57aa60c8c2387dce031bfe16c6d7\AndroidManifest.xml:20:20-65
