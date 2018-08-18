@@ -8,9 +8,7 @@
         android:minSdkVersion="19"
         android:targetSdkVersion="25" />
 
-    <meta-data
-        android:name="android.support.VERSION"
-        android:value="25.3.1" /> <!-- Include required permissions for Google Mobile Ads to run -->
+    <!-- Include required permissions for Google Mobile Ads to run -->
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
@@ -36,6 +34,7 @@
         <activity android:name="com.rodrigobc.anotadordejuegosdemesa.configurarUno" />
         <activity android:name="com.rodrigobc.anotadordejuegosdemesa.anotadorTruco" />
         <activity android:name="com.rodrigobc.anotadordejuegosdemesa.MarcadorEscoba" />
+        <activity android:name="com.rodrigobc.anotadordejuegosdemesa.anotadorChinchon" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.rodrigobc.anotadordejuegosdemesa.anotadorChinchon">
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.5" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.5" />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        app:layout_constraintBottom_toTopOf="@+id/guideline2"
+        app:layout_constraintEnd_toStartOf="@+id/guideline"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="8dp"
+            android:ems="10"
+            android:inputType="number"
+            android:textAlignment="center" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/floatingActionButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/editText"
+            android:layout_toStartOf="@+id/editText"
+            android:clickable="true"
+            android:tint="@android:color/white"
+            app:backgroundTint="@android:color/holo_red_light"
+            app:srcCompat="@drawable/ic_remove_black_24dp" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/floatingActionButton3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/editText"
+            android:layout_alignTop="@+id/floatingActionButton"
+            android:layout_marginEnd="10dp"
+            android:layout_toEndOf="@+id/editText"
+            android:clickable="true"
+            android:tint="@android:color/white"
+            app:backgroundTint="@color/VerdePositivo"
+            app:srcCompat="@drawable/ic_add_black_24dp" />
+
+        <TextView
+            android:id="@+id/puntaje1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_above="@+id/editText"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="40dp"
+            android:text="0"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:textSize="50dp"
+            android:textStyle="bold"
+            android:visibility="visible"
+            tools:text="0" />
+
+        <TextView
+            android:id="@+id/jugador1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="14dp"
+            android:text="Nombre Jugador" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="204dp"
+        android:layout_height="300dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="2dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/relativeLayout3"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/relativeLayout"
+        app:layout_constraintVertical_bias="1.0">
+
+        <EditText
+            android:id="@+id/editText3"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="8dp"
+            android:ems="10"
+            android:inputType="number" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/floatingActionButton6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/editText3"
+            android:layout_toStartOf="@+id/editText3"
+            android:clickable="true"
+            app:srcCompat="@drawable/ic_remove_black_24dp"
+            app:backgroundTint="@android:color/holo_red_light"
+            android:tint="@android:color/white"/>
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/floatingActionButton7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/floatingActionButton6"
+            android:layout_toEndOf="@+id/editText3"
+            android:clickable="true"
+            android:tint="@android:color/white"
+            app:backgroundTint="@color/VerdePositivo"
+            app:srcCompat="@drawable/ic_add_black_24dp" />
+
+        <TextView
+            android:id="@+id/puntaje3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="0"
+            android:textAlignment="center"
+            android:textSize="50dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/jugador3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="17dp"
+            android:text="Nombre Jugador" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout3"
+        android:layout_width="204dp"
+        android:layout_height="300dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="2dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <EditText
+            android:id="@+id/editText4"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="6dp"
+            android:ems="10"
+            android:inputType="number" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/floatingActionButton8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/editText4"
+            android:layout_toStartOf="@+id/editText4"
+            android:clickable="true"
+            app:srcCompat="@drawable/ic_remove_black_24dp"
+            app:backgroundTint="@android:color/holo_red_light"
+            android:tint="@android:color/white"/>
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/floatingActionButton9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/editText4"
+            android:layout_toEndOf="@+id/editText4"
+            android:clickable="true"
+            android:tint="@android:color/white"
+            app:backgroundTint="@color/VerdePositivo"
+            app:srcCompat="@drawable/ic_add_black_24dp" />
+
+        <TextView
+            android:id="@+id/puntaje4"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="0"
+            android:textAlignment="center"
+            android:textSize="50dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/jugador3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="19dp"
+            android:text="Nombre Jugador" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="206dp"
+        android:layout_height="301dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        app:layout_constraintBottom_toTopOf="@+id/guideline2"
+        app:layout_constraintDimensionRatio="w,1:1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/relativeLayout"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="7dp"
+            android:ems="10"
+            android:inputType="number"
+            android:textAlignment="center" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/floatingActionButton4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/editText2"
+            android:layout_toStartOf="@+id/editText2"
+            android:clickable="true"
+            app:srcCompat="@drawable/ic_remove_black_24dp"
+            android:tint="@android:color/white"
+            app:backgroundTint="@android:color/holo_red_light"/>
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/floatingActionButton5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/floatingActionButton4"
+            android:layout_toEndOf="@+id/editText2"
+            android:clickable="true"
+            android:tint="@android:color/white"
+            app:backgroundTint="@color/VerdePositivo"
+            app:srcCompat="@drawable/ic_add_black_24dp" />
+
+        <TextView
+            android:id="@+id/puntaje2"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_above="@+id/editText2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="40dp"
+            android:text="0"
+            android:textAlignment="center"
+            android:textSize="50dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/jugador2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:text="Nombre Jugador" />
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

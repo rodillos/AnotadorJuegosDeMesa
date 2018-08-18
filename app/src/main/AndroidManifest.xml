@@ -22,7 +22,8 @@
         <activity android:name=".configurarChancho" />
         <activity android:name=".configurarUno" />
         <activity android:name=".anotadorTruco" />
-        <activity android:name=".MarcadorEscoba"></activity>
+        <activity android:name=".MarcadorEscoba" />
+        <activity android:name=".anotadorChinchon"></activity>
     </application>
 
 </manifest>
